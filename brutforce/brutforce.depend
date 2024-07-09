@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717477005 source:d:\1ga22cs111\brutforce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
